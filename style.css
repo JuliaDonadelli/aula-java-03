@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+    background-image: url(../images/fundo.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.container{
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+    color: wheat;
+}
+
+.titulo{
+    color: blueviolet;
+    font-size: 30px;
+    margin: 10px;
+}
+
+.subtitulo{
+    color: pink;
+    font-size: 20px;
+
+}
